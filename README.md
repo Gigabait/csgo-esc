@@ -1,4 +1,4 @@
-# csgo-esc
+# CS:GO-Like Escape Menu
 Now available for free!
 
 CS:GO - ESCAPE MENU
