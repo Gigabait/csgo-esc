@@ -1,7 +1,6 @@
-# CS:GO-Like Escape Menu
+# CS:GO Escape Menu
 Now available for free!
 
-CS:GO - ESCAPE MENU
 -Easy to customize
 
 -Works on any gamemode
